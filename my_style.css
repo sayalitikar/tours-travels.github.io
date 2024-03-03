@@ -1,0 +1,177 @@
+/*Navbar*/
+.nav{
+  height: 50px;
+  background-color:#686a6e;
+  }
+  .nav a{
+    color: white;
+    font-weight: bold;
+  }
+  .nav-item a{
+     color: white;
+  }
+  .navbar-brand{
+    color: white;
+    padding-left: 5px;
+  }
+  .nav-link{
+    margin-bottom:2px;
+  }
+  .nav-item:hover .nav-link{
+         color:white ;
+  }
+  .dropdown-menu:hover{
+    background-color: black;
+  }
+
+/*Jumbotron Start*/
+.jumbotron{
+  background: url("Travel Images/Nature Slide.jpg");
+  width: 100%;
+  background-size: cover;
+  height: 90vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.3)),url("Travel Images/Nature Slide.jpg");
+}
+
+.jumbotron h1{
+  font-size: 60px;
+font-weight: 600;
+font-family: Comic Sans MS;
+text-align: center;
+margin-top: 30px;
+margin-right: 5px;
+color: white;
+}
+.jumbotron p{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  font-family:Comic Sans MS ;
+  padding-top: 25px;
+}
+
+/*About Us*/
+         h1{
+           text-align: center;
+           }
+        .container{
+            font-family: Arial;
+            border-radius: 10px;
+         }
+
+        .about {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .about p{
+          font-size: 30px;
+          padding-top: 20px;
+        }
+        .about h1{
+        font-family:rubik;
+        font-size: 50px;
+        }
+        .about-content {
+            padding: 20px;
+            border-top: 2px solid #ccc;
+        }
+        .about h2{
+          font-family:Blinker;
+        }
+        .about-content h2{
+          font-family:Blinker;
+          padding-bottom: 5px;
+        }
+.about-content img{
+  margin-right: 25px;
+}
+.about-content p{
+  padding-top: 15px;
+}
+.Slider h1{
+font-size: 40px;
+font-family: rubik;
+padding: 20px 20px;
+}
+
+.carousel-caption p{
+font-size: 50px;
+text-align: center;
+font-weight: 500;
+
+}
+#slide1{
+  height: 600px;
+}
+#slide2{
+  height: 600px;
+}
+#slide3{
+  height: 600px;
+}
+
+/*Gallery Section*/
+.Gallery h1{
+  font-family:rubik;
+  font-size: 40px;
+  padding: 10px;
+}
+ .gallery-item {
+  margin-bottom: 20px;
+   }
+ .gallery-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+    }
+.container-fluid{
+  width: 1200px;
+  height: auto;
+}
+.card-body p{
+  font-size: 17px;
+}
+#img5{
+  height: 250px;
+}
+#img{
+  height: 250px;
+}
+
+/*Login Form*/
+
+.container {
+  margin-top: 50px;
+  width: 500px;
+  border: 1px solid black;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+.container h2{
+text-align: center;
+font-weight: bold;
+}
+#btn{
+  margin-left: 200px;
+  margin-bottom: 20px;
+}
+
+/*Footer Section*/
+
+.footer{
+  background-color: skyblue;
+  height: 200px;
+}
+.Information h4{
+  font-size: 30px;
+  font-weight: bold;
+}
+.Information p{
+  font-weight: bold;
+}
+.social-media i{
+  font-size: 30px;
+}
